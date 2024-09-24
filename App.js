@@ -37,7 +37,7 @@ export default function App() {
       <View style={style_header.app_name}>
         
         <Text style={style_header.text_container}>
-          Contador Restaurante App
+          Contador Restaurante
         </Text>
   
       </View>
